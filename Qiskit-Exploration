@@ -1,0 +1,13 @@
+tau-cosmology-berard-framework/
+├── QiskitExploration/                     # main working folder
+│   ├── Tiny_Tau_v22.1.ipynb               # current converged notebook (with Gatlin Prediction memorial)
+│   ├── neg_reps3_1054_262k_counts.json    # negative phase high-shot counts
+│   ├── reps3_1054_524k_counts.json        # positive phase 524k convergence
+│   ├── reps3_1054_1M_counts.json          # positive phase 1M convergence
+│   ├── reps3_1054_7341758_legend_counts.json  # legendary prediction run
+│   ├── Tiny_Tau_Qiskit_Aer.py             # any supporting .py scripts (if you use them)
+│   └── README.md                          # summary file (paste the one below)
+├── figures/                               # optional – export plots from notebook
+│   └── (add PNGs of histograms/comparisons later)
+├── notes/                                 # optional future folder
+└── LICENSE                                # MIT or CC-BY (simple text file)
